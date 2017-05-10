@@ -7,8 +7,9 @@
 ## Instalation
 
 `gem install telegram_bot`
+
 `gem install rufus-scheduler`
 
 ## Run
 
-`ruby gnib_bot`
+`ruby gnib_bot.rb`
